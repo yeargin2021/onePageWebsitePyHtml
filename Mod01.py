@@ -10,7 +10,7 @@ def top():
 def body():
     file = open("blogPost01.txt", "r")
     for i in file:
-        print(i)
+        print(i,"<br>")
     file.close()
 def bottom():
     print ("""
