@@ -1,7 +1,10 @@
 hello world
 bye.
 <hr>
+202407110315, Powdersville. -- Had a very good couple of days. Now, to get this to publish automatically.
+<hr>
 This is the first version of a static web page generator, written in Python3 and html.
 I hope this works out great for what I have in mind.<br>
 Cheers!<br>
 Tommy
+<hr>
